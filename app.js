@@ -1,2 +1,2 @@
 var app={"name":"Arkar"};
-aert(app.name);
+aert("Hi,"+app.name);
