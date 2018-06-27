@@ -1,2 +1,2 @@
 var app={"name":"Arkar"};
-aert("Hi,"+app.name);
+alert("Hello ,"+app.name +" , How are you?");
